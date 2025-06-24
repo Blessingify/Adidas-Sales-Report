@@ -1,7 +1,14 @@
-# Adidas Regional Sales and Performance  2020/2021
+0# Adidas Regional Sales and Performance  2020/2021
 
 ## Table of Contents
-- [CONCLUSION](#conclusion) 
+- [Introduction](#introduction)
+- [Tools](#tools)
+- [Dashboard Overview](#dashboard-overview)
+- [METHODOLOGY](#methodology)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [KEY INSIGHTS](#key-insights)
+- [RECOMMENDATIONS](#recommendations)
+-  [CONCLUSION](#conclusion) 
 ### Introduction
 
 
@@ -11,13 +18,14 @@ Adidas is a globally recognized sportswear brand known for its innovation, quali
 - Excel - Data Cleaning 
 - Sql Server - Data Analysis
 - PowerBI - Creating Reports
-
+---
 
 ## Dashboard Overview
 ![PROJECT-2](https://github.com/user-attachments/assets/25333064-32f6-49ab-b45c-fa267fc40497)
+[click here to interact with table](https://public.tableau.com/views/adidas_con/PROJECT?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-
+---
 ### METHODOLOGY 
 
 1. 	The data was analyzed and cleaned using Excel and export to Tableau for visualization . 
