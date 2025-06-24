@@ -13,7 +13,10 @@ Adidas is a globally recognized sportswear brand known for its innovation, quali
 - PowerBI - Creating Reports
 
 
-## Add picture
+## Dashboard Overview
+![PROJECT-2](https://github.com/user-attachments/assets/25333064-32f6-49ab-b45c-fa267fc40497)
+
+
 
 ### METHODOLOGY 
 
