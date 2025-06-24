@@ -38,7 +38,7 @@ Adidas is a globally recognized sportswear brand known for its innovation, quali
 - Which region and product has the lowest performance.
 - What year and month has the lowest performance.
 - What sales method are driving or hindering growth.
-- How can we optimize new strategy to improve profitability and market performance across its stores.
+- How can we optimize new strategy to improve profitability and market performance across its stores
 
 
 ### KEY INSIGHTS
