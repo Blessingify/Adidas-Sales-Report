@@ -1,4 +1,4 @@
-0# Adidas Regional Sales and Performance  2020/2021
+# Adidas Regional Sales and Performance  2020/2021
 
 ## Table of Contents
 - [Introduction](#introduction)
