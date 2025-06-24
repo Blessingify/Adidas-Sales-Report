@@ -8,7 +8,11 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [KEY INSIGHTS](#key-insights)
 - [RECOMMENDATIONS](#recommendations)
--  [CONCLUSION](#conclusion) 
+-  [CONCLUSION](#conclusion)
+  
+![adidas-wallpaper-preview](https://github.com/user-attachments/assets/35abf279-8088-4cbc-a6ab-1d10645ecc98)
+
+
 ### Introduction
 
 
